@@ -1,5 +1,5 @@
 # Old-Fortnite-External
-This repository contains the source code for an external originally developed during Fortnite Season 5. Since the source was leaked, I’ve decided to share it publicly. However, the driver and mapper are not included to prevent misuse or further spreading.
+This repository contains the source code for an external originally developed during Fortnite Chapter 5. Since the source was leaked, I’ve decided to share it publicly. However, the driver and mapper are not included to prevent misuse or further spreading.
 
 
 Overlay: Overlay not to special.
